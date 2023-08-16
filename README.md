@@ -48,4 +48,7 @@ If you have used this work in your project, considering citing this research pap
 
 ```
 
+## Usage - 
+
+Data and models cannot be used for commerical use. 
 
