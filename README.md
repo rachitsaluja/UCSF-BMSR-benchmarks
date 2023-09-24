@@ -1,6 +1,6 @@
 # UCSF-BMSR-benchmarks
 
-nnUNet benchmarks for [The University of California San Francisco Brain Metastases Stereotactic Radiosurgery (UCSF-BMSR) dataset](https://arxiv.org/abs/2304.07248).
+The official nnUNet benchmarks for [The University of California San Francisco Brain Metastases Stereotactic Radiosurgery (UCSF-BMSR) dataset](https://arxiv.org/abs/2304.07248).
 
 ## Requirements - 
 
