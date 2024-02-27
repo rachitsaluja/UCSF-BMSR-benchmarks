@@ -1,6 +1,6 @@
 # UCSF-BMSR-benchmarks
 
-The official nnUNet benchmarks for [The University of California San Francisco Brain Metastases Stereotactic Radiosurgery (UCSF-BMSR) dataset](https://arxiv.org/abs/2304.07248).
+The official nnUNet benchmarks for [The University of California San Francisco Brain Metastases Stereotactic Radiosurgery (UCSF-BMSR) dataset](https://pubs.rsna.org/doi/abs/10.1148/ryai.230126).
 
 ## Requirements - 
 
@@ -39,11 +39,13 @@ Following are the performance metrics for all the experiments performed in this 
 If you have used this work in your project, considering citing this research paper. 
 
 ```
-@article{rudie2023university,
+@article{rudie2024university,
   title={The University of California San Francisco, Brain Metastases Stereotactic Radiosurgery (UCSF-BMSR) MRI Dataset},
-  author={Rudie, Jeffrey D and Saluja, Rachit and Weiss, David A and Nedelec, Pierre and Calabrese, Evan and Colby, John B and Laguna, Benjamin and Mongan, John and Braunstein, Steve and Hess, Christopher P and Rauschecker, Andreas M and others},
-  journal={arXiv preprint arXiv:2304.07248},
-  year={2023}
+  author={Rudie, Jeffrey D and Saluja, Rachit and Weiss, David A and Nedelec, Pierre and Calabrese, Evan and Colby, John B and Laguna, Benjamin and Mongan, John and Braunstein, Steve and Hess, Christopher P and others},
+  journal={Radiology: Artificial Intelligence},
+  pages={e230126},
+  year={2024},
+  publisher={Radiological Society of North America}
 }
 
 ```
