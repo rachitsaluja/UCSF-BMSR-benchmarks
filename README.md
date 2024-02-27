@@ -32,7 +32,7 @@ We also provide 2 skull stripping models for FLAIR and T1Post skullstripping res
 
 Following are the performance metrics for all the experiments performed in this project. 
 
-![Performance Metrics for nnUNet Segmentation Models](extras/benchmarks_performance.png)
+![Performance Metrics for nnUNet Segmentation Models](extras/performance.png)
 
 ## Citation - 
 
